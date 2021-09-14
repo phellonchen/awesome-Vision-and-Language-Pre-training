@@ -99,7 +99,7 @@ Last update on 2021/09/14.
 
 1. **VLN**: [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/abs/2002.10638), CVPR 2020, [[code]](https://github.com/weituo12321/PREVALENT), (**PREVALENT**)
 
-### Visual Machine Reading Comprehensio
+### Visual Machine Reading Comprehension
 1. **VisualMRC**: [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272), AAAI 2021, (**LayoutT5, LayoutBART**)
 
 ### Other Tasks
