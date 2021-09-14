@@ -3,12 +3,12 @@
 Last update on 2021/09/14.
 ## Table of Contents
 
-* [Image-based VLP](#other-transformer-based-multimodal-networks)
+* [Image-based VLP](#Image-based-VLP)
   * [Representation Learning](#representation-learning)
   * [Task-specific](#task-specific)
   * [Other Analysis](#other-analysis)
-* [Video-based VLP](#video-based vlp)
-* [Speech-based VLP](#speech-based vlp)
+* [Video-based VLP](#video-based-vlp)
+* [Speech-based VLP](#speech-based-vlp)
 * [Other Transformer-based multimodal networks](#other-transformer-based-multimodal-networks)
 * [Other Resources](#other-resources)
 
