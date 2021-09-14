@@ -8,7 +8,7 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
   * [Task-specific](#task-specific)
   * [Other Analysis](#other-analysis)
 * [Video-based VLP](#video-based-vlp)
-* [Speech-based PTMs](#speech-based-PTMs)
+<!-- * [Speech-based PTMs](#speech-based-PTMs) -->
 * [Other Transformer-based multimodal networks](#other-transformer-based-multimodal-networks)
 * [Other Resources](#other-resources)
 
@@ -164,6 +164,8 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 
 14. [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf), CVPR 2021
 
+
+<!-- 
 # Speech-based PTMs
 
 1. [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307), arXiv 2019/06
@@ -174,7 +176,7 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 
 4. [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453),  arXiv 2019/10
 
-5. [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912),  arXiv 2019/11
+5. [Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/abs/1911.03912),  arXiv 2019/11 -->
 
 # Other Transformer-based multimodal networks
 
