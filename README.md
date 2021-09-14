@@ -102,7 +102,7 @@ Last update on 2021/09/14.
 ### Visual Machine Reading Comprehensio
 1. **VisualMRC**: [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272), AAAI 2021, (**LayoutT5, LayoutBART**)
 
-### Others Tasks
+### Other Tasks
 
 1. **Visual Relationship Detection**: [Visual Relationship Detection With Visual-Linguistic Knowledge From Multimodal Representations](https://ieeexplore.ieee.org/document/9387302), 	IEEE Access 2021
 
