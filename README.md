@@ -8,10 +8,9 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
   * [Task-specific](#task-specific)
   * [Other Analysis](#other-analysis)
 * [Video-based VLP](#video-based-vlp)
-<!-- * [Speech-based PTMs](#speech-based-PTMs) -->
 * [Other Transformer-based multimodal networks](#other-transformer-based-multimodal-networks)
 * [Other Resources](#other-resources)
-
+<!-- * [Speech-based PTMs](#speech-based-PTMs) -->
 
 # Image-based VLP
 
