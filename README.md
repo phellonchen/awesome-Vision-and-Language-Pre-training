@@ -3,7 +3,7 @@
 Last update on 2021/09/14.
 ## Table of Contents
 
-* [Image-based VLP](#Image-based VLP)
+* [Image-based VLP](# Image-based VLP)
   * [Representation Learning](#representation-learning)
   * [Task-specific](#task-specific)
   * [Other Analysis](#other-analysis)
