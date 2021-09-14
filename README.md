@@ -1,5 +1,5 @@
 # Recent Advances in Vision-and-Language Pre-training (VLP)
-Maintained by [Feilong Chen] (phellon.chen@gmail.com). Last update on 2021/09/14.
+Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
 <!-- Last update on 2021/09/14. -->
 ## Table of Contents
 
