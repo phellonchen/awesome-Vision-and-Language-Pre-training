@@ -1,14 +1,14 @@
 # Recent Advances in Vision-and-Language Pre-training (VLP)
-<!-- Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com). Last update on 2021/06/14. -->
+<!-- Maintained by [Feilong Chen] (phellon.chen@gmail.com). Last update on 2021/06/14. -->
 Last update on 2021/09/14.
 ## Table of Contents
 
-* [Image-based VL-PTMs](#image-based-vl-ptms)
+* [Image-based VL-PTMs](#image-based VLP)
   * [Representation Learning](#representation-learning)
   * [Task-specific](#task-specific)
   * [Other Analysis](#other-analysis)
-* [Video-based VL-PTMs](#video-based-vl-ptms)
-* [Speech-based VL-PTMs](#speech-based-vl-ptms)
+* [Video-based VL-PTMs](#video-based VLP)
+* [Speech-based VL-PTMs](#speech-based VLP)
 * [Other Transformer-based multimodal networks](#other-transformer-based-multimodal-networks)
 * [Other Resources](#other-resources)
 
