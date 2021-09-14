@@ -66,6 +66,8 @@ Last update on 2021/09/14.
 
 24. [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/abs/2107.06383), arXiv 2021, [[code]](https://github.com/clip-vil/CLIP-ViL/tree/master/CLIP-ViL-Pretrain) 
 
+25. [Unifying Vision-and-Language Tasks via Text Generation], ICML 2021, [[code]](https://github.com/j-min/VL-T5#unifying-vision-and-language-tasks-via-text-generation)
+
 
 ## Task-specific
 
