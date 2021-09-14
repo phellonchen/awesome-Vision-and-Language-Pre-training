@@ -200,4 +200,5 @@ Last update on 2021/09/14.
   * [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers)
   * [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
   * [A repository of vision and language papers](https://github.com/sangminwoo/awesome-vision-and-language-papers)
+  * [Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 
