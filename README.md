@@ -64,6 +64,9 @@ Last update on 2021/09/14.
 
 [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/abs/2012.15409), ACL 2021, [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO) 
 
+[How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/abs/2107.06383), arXiv 2021, [[code]](https://github.com/clip-vil/CLIP-ViL/tree/master/CLIP-ViL-Pretrain) 
+
+
 
 
 
