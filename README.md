@@ -62,6 +62,11 @@ Last update on 2021/09/14.
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), CVPR 2021
 
+[OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation](https://arxiv.org/abs/2107.00249.pdf), arXiv 2021
+
+[UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/abs/2012.15409), ACL 2021, [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO) 
+
+
 
 
 ## Task-specific
