@@ -206,6 +206,6 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/09/14.
   * [A repository of vision and language papers](https://github.com/sangminwoo/awesome-vision-and-language-papers)
   * [Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 * Simple Survey on VLP
-  * [VLP Survey on Representation Learning], Feilong Chen, [BaiduYun](https://pan.baidu.com/s/1mb3u6w-0fFim2zmxUa0e_w)[bujb] 
-  * [VLP Survey on Multimodal Retrieval], Duoduo Feng, [BaiduYun](https://pan.baidu.com/s/1pH5Ath3y0C3n_wAa55xdgA)[xobv]
+  * VLP Survey on Representation Learning, Feilong Chen, [BaiduYun](https://pan.baidu.com/s/1mb3u6w-0fFim2zmxUa0e_w) password:bujb 
+  * VLP Survey on Multimodal Retrieval, Duoduo Feng, [BaiduYun](https://pan.baidu.com/s/1pH5Ath3y0C3n_wAa55xdgA), password:xobv
 
