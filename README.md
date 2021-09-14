@@ -13,7 +13,7 @@ Last update on 2021/09/14.
 * [Other Resources](#other-resources)
 
 
-# Image-based VL-PTMs
+# Image-based VLP
 
 ## Representation Learning
 
@@ -114,7 +114,7 @@ Last update on 2021/09/14.
 **Dataset perspective**, [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), arXiv 2021/02
   
   
-# Video-based VL-PTMs
+# Video-based VLP
 
 [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
@@ -144,7 +144,7 @@ Last update on 2021/09/14.
 
 [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf), CVPR 2021
 
-# Speech-based VL-PTMs
+# Speech-based VLP
 
 [Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models](https://arxiv.org/abs/1906.07307), arXiv 2019/06
 
