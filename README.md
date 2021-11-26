@@ -70,6 +70,8 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/11/12.
 
 27. [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/abs/2108.10904), arXiv 2021
 
+28. [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/abs/2111.02358), arXiv 2021, [[code]](https://github.com/microsoft/unilm/tree/master/vlmo)
+
 
 ## Task-specific
 
