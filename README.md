@@ -1,8 +1,8 @@
 # Recent Advances in Vision-and-Language Pre-training (VLP)
-Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/11/26.
+Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2022/05/06.
 <!-- Last update on 2021/09/14. -->
 ## Table of Contents
-
+* Survey
 * [Image-based VLP](#Image-based-VLP)
   * [Representation Learning](#representation-learning)
   * [Task-specific](#task-specific)
@@ -11,6 +11,9 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/11/26.
 * [Other Transformer-based multimodal networks](#other-transformer-based-multimodal-networks)
 * [Other Resources](#other-resources)
 <!-- * [Speech-based PTMs](#speech-based-PTMs) -->
+
+# Survey
+1. [VLP: A Survey on Vision-Language Pre-training](https://arxiv.org/abs/2202.09061), arXiv 2022
 
 # Image-based VLP
 
@@ -72,6 +75,13 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/11/26.
 
 28. [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/abs/2111.02358), arXiv 2021, [[code]](https://github.com/microsoft/unilm/tree/master/vlmo)
 
+29. [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110), CVPR2021, [[code]](http://dpfan.net/Kaleido-BERT)
+
+30. [Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts](https://arxiv.org/abs/2111.08276), arXiv 2021, [[code]](https://github.com/
+zengyan-97/X-VLM.)
+
+32. [Vision-Language Pre-Training with Triple Contrastive Learning](https://arxiv.org/abs/2202.10401), CVPR 2022, [[code]](https://github.com/uta-smile/TCL)
+
 
 ## Task-specific
 
@@ -94,6 +104,8 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2021/11/26.
 1. **VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), EMNLP 2020 [[code]](https://github.com/salesforce/VD-BERT), (**VD-BERT**)
 
 2. **VisDial**: [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), ECCV 2020 [[code]](https://github.com/vmurahari3/visdial-bert), (**VisDial-BERT**)
+
+3. **VisDial**: [UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog](https://arxiv.org/abs/2205.00423), CVPR 2022
 
 ### Text-Image Retrieval
 
