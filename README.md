@@ -77,8 +77,7 @@ Maintained by Feilong Chen (phellon.chen@gmail.com). Last update on 2022/05/06.
 
 29. [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110), CVPR2021, [[code]](http://dpfan.net/Kaleido-BERT)
 
-30. [Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts](https://arxiv.org/abs/2111.08276), arXiv 2021, [[code]](https://github.com/
-zengyan-97/X-VLM)
+30. [Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts](https://arxiv.org/abs/2111.08276), arXiv 2021, [[code]](https://github.com/zengyan-97/X-VLM)
 
 32. [Vision-Language Pre-Training with Triple Contrastive Learning](https://arxiv.org/abs/2202.10401), CVPR 2022, [[code]](https://github.com/uta-smile/TCL)
 
