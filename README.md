@@ -1,5 +1,5 @@
 # Recent Advances in Vision-and-Language Pre-training (VLP)
-Maintained by Feilong Chen. Last update on 2022/05/06.
+Maintained by Feilong Chen. Last update on 2022/06/13.
 <!-- Last update on 2021/09/14. -->
 ## Table of Contents
 * [Survey](#Survey)
@@ -111,6 +111,8 @@ Maintained by Feilong Chen. Last update on 2022/05/06.
 1. **Text-image retrieval**: [ImageBERT: Cross-Modal Pre-training with Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), arXiv 2020/01
 
 2. **Text-image retrieval**: [CROSS-PROBE BERT FOR EFFICIENT AND EFFECTIVE CROSS-MODAL SEARCH](https://openreview.net/forum?id=bW9SYKHcZiz), ICLR 2021 submission. 
+
+3. **Text-image retrieval**: [Learning Relation Alignment for Calibrated Cross-modal Retrieval](https://github.com/lancopku/IAIS), ACL 2021.
 
 ### Visual Language Navigation
 
