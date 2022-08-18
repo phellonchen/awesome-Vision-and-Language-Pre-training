@@ -98,6 +98,8 @@ Maintained by Feilong Chen. Last update on 2022/06/13.
 
 4. **Visual Question Generation**: [BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations](https://arxiv.org/abs/2002.10832), arXiv 2020/02
 
+5. **TextVQA**: [TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://arxiv.org/abs/2208.01813), arXiv 2022, [[code]](https://github.com/HenryJunW/TAG), (**TAG**)
+
 ### Visual Dialog
 
 1. **VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), EMNLP 2020 [[code]](https://github.com/salesforce/VD-BERT), (**VD-BERT**)
