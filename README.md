@@ -83,6 +83,8 @@ Maintained by Feilong Chen. Last update on 2022/08/19.
 
 33. [Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022
 
+34. [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086), ICML 22, [[code]](https://github.com/salesforce/BLIP)
+
 ## Task-specific
 
 ### Image Caption
