@@ -1,5 +1,5 @@
 # Recent Advances in Vision-and-Language Pre-training (VLP)
-Maintained by Feilong Chen. Last update on 2022/08/19.
+Maintained by Feilong Chen. Last update on 2022/09/25.
 <!-- Last update on 2021/09/14. -->
 ## Table of Contents
 * [Survey](#Survey)
@@ -84,6 +84,12 @@ Maintained by Feilong Chen. Last update on 2022/08/19.
 33. [Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022
 
 34. [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086), ICML 22, [[code]](https://github.com/salesforce/BLIP)
+
+35. [OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/abs/2202.03052), ICML 22, [[code]](https://github.com/OFA-Sys/OFA)
+
+36. [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917), arXiv 2022, [[code]](https://github.com/lucidrains/CoCa-pytorch)
+
+37. [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442), arXiv 2022, [[code]](https://aka.ms/beit-3)
 
 ## Task-specific
 
