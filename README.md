@@ -130,6 +130,10 @@ Maintained by Feilong Chen. Last update on 2022/09/25.
 
 3. **Text-image retrieval**: [Learning Relation Alignment for Calibrated Cross-modal Retrieval](https://github.com/lancopku/IAIS), ACL 2021.
 
+4. **Text-image retrieval**: [Dynamic Contrastive Distillation for Image-Text Retrieval](https://arxiv.org/abs/2207.01426), arXiv 2022/07.
+
+5. **Text-image retrieval**: [Where Does the Performance Improvement Come From? - A Reproducibility Concern about Image-Text Retrieval](https://arxiv.org/abs/2203.03853), SIGIR 2022.
+
 ### Visual Language Navigation
 
 1. **VLN**: [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/abs/2002.10638), CVPR 2020, [[code]](https://github.com/weituo12321/PREVALENT), (**PREVALENT**)
