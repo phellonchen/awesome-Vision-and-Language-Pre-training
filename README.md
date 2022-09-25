@@ -18,6 +18,7 @@ Maintained by Feilong Chen. Last update on 2022/09/25.
 # Image-based VLP
 
 ## Representation Learning
+0. [Learning Transferable Visual Models From Natural Language Supervision, CLIP](https://arxiv.org/abs/2103.00020), ICML 2021, [[code]](https://github.com/openai/CLIP)
 
 1. [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265), NeurIPS 2019 [[code]](https://github.com/jiasenlu/vilbert_beta)
 
