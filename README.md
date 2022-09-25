@@ -87,9 +87,13 @@ Maintained by Feilong Chen. Last update on 2022/09/25.
 
 35. [OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/abs/2202.03052), ICML 22, [[code]](https://github.com/OFA-Sys/OFA)
 
-36. [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917), arXiv 2022, [[code]](https://github.com/lucidrains/CoCa-pytorch)
+36. [GIT: A Generative Image-to-text Transformer for Vision and Language](https://arxiv.org/abs/2205.14100), arXiv 2022, [[code]](https://github.com/microsoft/GenerativeImage2Text)
 
-37. [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442), arXiv 2022, [[code]](https://aka.ms/beit-3)
+37. [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917), arXiv 2022, [[code]](https://github.com/lucidrains/CoCa-pytorch)
+
+38. [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442), arXiv 2022, [[code]](https://aka.ms/beit-3)
+
+39. [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), arXiv 2022
 
 ## Task-specific
 
