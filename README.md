@@ -96,6 +96,10 @@ Maintained by Feilong Chen. Last update on 2022/09/25.
 
 39. [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794), arXiv 2022
 
+40. [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf), arXiv 2023
+
+41. [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf), arXiv 2023, [[code]](https://github.com/microsoft/unilm)
+
 ## Task-specific
 
 ### Image Caption
