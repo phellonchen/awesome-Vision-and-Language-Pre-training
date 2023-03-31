@@ -100,6 +100,8 @@ Maintained by Feilong Chen. Last update on 2023/03/04.
 
 41. [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf), arXiv 2023, [[code]](https://github.com/microsoft/unilm)
 
+42. [Unifying Vision-Language Representation Space with Single-tower Transformer](https://arxiv.org/abs/2211.11153), AAAI 2023 
+
 ## Task-specific
 
 ### Image Caption
